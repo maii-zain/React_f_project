@@ -1,0 +1,42 @@
+.MainNav{
+    background-color: peru;
+}
+.FontColor{
+    color: beige;
+    font-size: 120%;
+}
+.Brand{
+    color: beige;
+    font-size: 200%; 
+    border: 2px solid beige; 
+    border-radius: 50%;  
+    font-weight: bold
+}
+.containerr{
+    margin-left: 50px;
+}
+.RegBrand{
+    color: peru;
+    font-size: 200%; 
+    border: 2px solid peru; 
+    border-radius: 50%;  
+    font-weight: bold
+}
+.heads{
+    text-align: center;
+    color: peru;
+}
+.btn-hover:hover {
+    background-color: #8B4513; 
+    border-color: #8B4513;
+  }
+  
+  .btn-hoverc:hover {
+    background-color: #CD853F; 
+    border-color: #CD853F;
+  }
+  
+  .btn-hover:hover {
+    background-color: #8B4513; 
+    border-color: #8B4513;
+  }
